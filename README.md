@@ -1,7 +1,6 @@
 # Projeto interdisciplinar das matérias de Linguagem de Programação III, Análise orientada a objeto e Interação humano computador.
 
-Durante o projeto, fui desingado a ser  pelo gerenciamento da equipe. Desta forma, participei de toda as etapas do projeto, porém minha maior participação foi nos digramas e fluxos.
-
+Durante o projeto, fui desingado a ser responsável pelo gerenciamento da equipe. Desta forma, participei de toda as etapas do projeto, porém minha maior participação foi nos digramas e fluxos.
 
 
 ## Libbly 
